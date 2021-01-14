@@ -1,16 +1,10 @@
 .circle{
-// top: 213px;
-// left: -179px;
-// width: 571px;
-// height: 572px;
 // background: transparent url('/assets/img/blob-small.svg') 0% 0% no-repeat padding-box;
 opacity: 1;
 background: transparent url('/assets/img/circle.svg') 0% 0% no-repeat padding-box;
 }
 
 .group-6{
-// top: 270px;
-// left: 100px;
 width: 100%;
 height: 675px;
 background: transparent url('/assets/img/Group 6.svg') 0% 0% no-repeat padding-box;
@@ -18,10 +12,6 @@ opacity: 1;
 }
 
 .blob-small{
-// top: 213px;
-// left: -179px;
-// width: 571px;
-// height: 572px;
 background: transparent url('/assets/img/blob-small.svg') 0% 0% no-repeat padding-box;
 opacity: 1
 }
@@ -45,11 +35,20 @@ opacity: 1;
 }
 
 .accounting-img{
-    position: relative;
-    bottom: 5%;
-    left: 64%;
     width: 250px;
     height: 70px;
     background: transparent url('/assets/img/accounting_dots.svg') 0% 0% no-repeat padding-box;
     opacity: 0.5;
+}
+
+.login-accounting{
+    position: relative;
+    bottom: 5%;
+    left: 64%;
+}
+
+.collect{
+    position: relative;
+    left: 22%;
+    bottom: 3rem;
 }
