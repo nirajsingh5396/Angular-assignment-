@@ -45,9 +45,10 @@ opacity: 1;
 }
 
 .accounting-img{
-    top: 936px;
-    left: 1458px;
-    width: 430px;
+    position: relative;
+    bottom: 5%;
+    left: 64%;
+    width: 250px;
     height: 70px;
     background: transparent url('/assets/img/accounting_dots.svg') 0% 0% no-repeat padding-box;
     opacity: 0.5;
