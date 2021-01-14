@@ -12,6 +12,8 @@ opacity: 1;
 }
 
 .blob-small{
+position: relative;
+left: -15%;
 background: transparent url('/assets/img/blob-small.svg') 0% 0% no-repeat padding-box;
 opacity: 1
 }
