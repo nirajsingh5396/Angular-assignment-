@@ -1,0 +1,49 @@
+
+.header-container{
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    .fxFlex{
+    flex: 1 1 100%;
+    max-width: 2%;
+    }
+
+.btn{
+letter-spacing: 0px;
+opacity: 1;
+box-shadow: 0px 0px 20px #00000033;
+border-radius: 24px;
+opacity: 1;
+padding: 6px 20px;
+}
+
+.get-started{
+    background: transparent linear-gradient(90deg, #9F62C9 0%, #663399 100%) 0% 0% no-repeat padding-box;
+    color: #FFFFFF;
+
+}
+
+.login{
+    border: 2px solid #663399;
+    color: #663399;
+}
+
+.text{
+font: normal normal normal 20px/34px Open Sans;
+letter-spacing: 0px;
+color: #222222;
+opacity: 1;
+}
+
+.circle{
+    opacity: 1;
+    background: transparent url('/assets/img/circle.svg') 0% 0% no-repeat padding-box;
+    }
+    
+
+}
+
+
+
