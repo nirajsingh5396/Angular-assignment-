@@ -1,0 +1,21 @@
+  
+  .row{
+      display: flex;
+  
+
+}
+
+.logo-container{
+    position: relative;
+    top: 27px;
+    left: 120px;
+    width: 123px;
+    height: 123px;
+    background: transparent url('/assets/img/logo.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+    }
+
+    .flex{
+        flex: 1 1 100%;
+        max-width: 50%;
+    }
